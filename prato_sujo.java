@@ -9,6 +9,7 @@ public class prato_sujo {
         int ps = sc.nextInt();
         
         while (ps > 0){
+            System.out.pintln("Lavando....");
             
             System.out.println("Lavando pratos: " + ps);
             ps--;
